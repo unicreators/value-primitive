@@ -1,6 +1,6 @@
 {
 	"name": "value-primitive",
-	"version": "0.9.0",
+	"version": "0.9.1",
 	"description": "convert value to primitive value.",
 	"main": "index.js",
 	"directories": {

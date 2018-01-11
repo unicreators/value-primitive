@@ -8,7 +8,7 @@ convert value to primitive value.
 ## Install
 
 ```sh
-$ npm install object-primitive
+$ npm install value-primitive
 ```
 
 &nbsp;
